@@ -4,9 +4,9 @@
 
 The resultant lexer from the word_by_word.l file takes an English sentence and outputs the individual words, together with the word count as shown below:
 
-![out](https://github.com/Lynne2002/group-8/assets/69455961/19c5299a-5c9e-4f9f-af4b-ceed897b0e8b)
+![out](https://github.com/Lynne2002/group8-work/assets/69455961/224a41e6-8d22-4fa1-b581-2f73ed797738)
 
-![output](https://github.com/Lynne2002/group-8/assets/69455961/ae29870d-a023-4a89-92f7-3c1eb305bcc1)
+![output](https://github.com/Lynne2002/group8-work/assets/69455961/e6f51411-d68f-4984-84c4-6d82272eb76c)
 
 # part 2
 
