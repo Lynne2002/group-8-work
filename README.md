@@ -1,7 +1,5 @@
 # group8-work
 
-# group_work
-
 # part 1
 
 The resultant lexer from the word_by_word.l file takes an English sentence and outputs the individual words, together with the word count as shown below:
